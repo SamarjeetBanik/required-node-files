@@ -12,7 +12,7 @@
     "url": "git+https://github.com/SamarjeetBanik/required-nodejs-files.git"
   },
   "author": "Team NameError",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/SamarjeetBanik/required-nodejs-files/issues"
   },
