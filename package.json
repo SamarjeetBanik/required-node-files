@@ -1,0 +1,45 @@
+{
+  "name": "required-nodejs-files",
+  "version": "1.0.0",
+  "description": "A package that contains all required and common files & folder structure for node.js development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamarjeetBanik/required-nodejs-files.git"
+  },
+  "author": "Team NameError",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamarjeetBanik/required-nodejs-files/issues"
+  },
+  "homepage": "https://github.com/SamarjeetBanik/required-nodejs-files#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "config": "^3.3.6",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "express-jwt": "^6.1.0",
+    "express-logger": "0.0.3",
+    "express-session": "^1.17.2",
+    "express-validator": "^6.14.0",
+    "formidable": "^2.0.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.1.5",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15",
+    "npm": "^8.3.0",
+    "passport": "^0.5.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "cypress": "^9.2.0",
+    "mocha": "^9.1.3",
+    "zombie": "^6.1.4"
+  }
+}
