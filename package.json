@@ -11,12 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/SamarjeetBanik/required-nodejs-files.git"
   },
-  "author": "Team NameError",
+  "author": "teamnameerror",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/SamarjeetBanik/required-nodejs-files/issues"
-  },
-  "homepage": "https://github.com/SamarjeetBanik/required-nodejs-files#readme",
   "dependencies": {
     "body-parser": "^1.19.1",
     "config": "^3.3.6",
